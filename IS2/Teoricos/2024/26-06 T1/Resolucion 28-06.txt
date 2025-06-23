@@ -1,0 +1,135 @@
+V o F ====================================================================================
+
+1) La GCS es una actividad de autoprotección que se aplica durante el proceso de software.
+
+ VERDADERO (PAG 2) protege al equipo y al producto frente a cambios descontrolado
+
+2) El control de cambios permite al usuario especificar configuraciones alternativas del sistema
+	mediante la selección de versiones adecuadas.
+
+ FALSO(PAG 2) no es un usuario sino un ACC(Autoridad de Control de Cambios) 
+
+3) La autoridad de control de cambios(ACC) se encarga de realizar revisiones técnicas formales.
+
+ FALSO(PAG 2) es parte de la AUDITORIA DE LA CONFIGURACION quien lleva las revisiones técnicas.
+
+4) La linea base es un concepto del GCS que nos ayuda controlar los cambios.
+ 
+ VERDADERA(PAG 2)
+
+5) Dependiendo del modelo de proceso seleccionado, el modelo esta compuesto de conjuntos de tareas o
+	ctividades, o no
+
+ FALSA(NO PAG) por que dice que algunos modelos no tienen tareas o actividades.
+
+6) La mala administración del personal no es uno de los principales factores del fracaso de los proyectos.
+
+ FALSO(PAG 3) 
+
+7) El camino critico puede obtenerse utilizando el calculo de margen total.
+ 
+ VERDADERA(NO PAG) Por que praa el camino critico se obtienen todo el margen, desde el primer hasta el ultimo dia.
+
+
+8) Una tarea se puede describir como secuencia de acciones a realizar sin determinar el tiempo a utilizar.
+
+ VERDADERA(PAG 3)
+
+9) Una tarea critica es aquella cuyo retraso genera un retraso en todo el proyecto.
+ 
+ VERDADERA (PAG 3)
+
+10) La planificación establece una secuencia operativa de tareas.
+
+ VERDADERA (NO PAG) La planificación establece una secuencia operativa de tareas.
+
+11) El riesgo de que personal experimentado abandone la organización antes de que finalice el proyecto
+	es un riesgo de negocio.
+
+ FALSO (PAG 1) es riesgo de PROYECTO ya que amenaza al plan y desarrollo del proyecto, no de la organización.
+
+12) Los riesgos de gran impacto con una probabilidad de moderada a alta y los riesgos de poco impoacto,
+	pero con gran probabilidad no deberían tomarse en cuenta.
+
+ FALSO(NO PAG) ambos deben ser tomados en cuenta, el primero por el impacto, y el segundo por la probabilidad.
+
+13) Para la toma de decisión acerca del tratamiento de los riesgos, se debe tener en cuenta el costo
+	de la aplicación de las estrategias.
+
+ VERDADERO(NO PAG)
+
+14) Los riesgos conocidos se extrapolan de la experiencia en proyectos anteriores.
+
+ VERDADERO(PAG 4) Por las métricas post-mortem de antiguos proyectos.
+
+15) Una metrica proporciona una visión profunda que permite al gestor de proyectos ajustar el proceso para
+	 que las cosas salgan mejor.
+
+ VERDADERA(PAG 4)
+
+16) Una de las reglas básicas del diseño de interfaz es no darle el control al usuario.
+
+ FALSO(PAG 7) la regla es "DAR EL CONTROL AL USUARIO"
+
+17) Para mejorar la seguridad del sistema no es conveniente agrupar las operaciones criticas,  en un conjunto
+	reducido de subsistemas.
+ 
+ FALSO(NO PAG) es conveniente agrupar las operaciones críticas para mejorar la seguridad.
+
+18) Una de las desventajas del patron de repositorio es que los subsistemas deben estar acordes a
+	los modelos de los datos del repositorio.
+ 
+ FALSO(NO PAG)que los subsistemas estén alineados con el modelo de datos centralizado es una desventaja
+
+19) La verificación del software responde a la pregunta ¿estamos construyendo el producto adecuadamente?
+
+ VERDADERO(PAG 10)
+
+20) La auditoria es una actividad reactiva donde el auditor actua
+
+ VERDADERA(NO PAG)
+
+
+
+===================================================================
+PREGUNTAS ------------------------------------
+
+1) Explique los 4 tipos de diseño:
+
+RTA:	- De datos: el modelo del dominio se transforman en estructuras de datos.
+	- Arquitectónico: Relaciones entre los elementos mas importantes.
+	- De componentes: la Arquitectura se transforma en una descripción funcional de los componentes.
+	- De interface: La forma de comunicación del sistema con otros sistemas y personas.
+
+2) Explique los 4 principios de Nielsen:
+
+RTA:	- VISIBILIDAD.
+	- CORRESPONDENCIA.
+	- CONTROL Y LIBERTAD AL USUARIO.
+	- CONSISTENCIA Y ESTANDARES.
+
+3) Explique los 4 tipos de rejuvenecimiento:
+
+RTA:	- Re-documentar. Actualizar la documentacion
+	- Re-estructurar. Actualizar el codigo
+	- Ingenieria inversa. Analizar el software
+	- Re-ingenieria. Reconstruir el codigo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

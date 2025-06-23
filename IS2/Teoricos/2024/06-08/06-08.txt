@@ -1,0 +1,3 @@
+* Nombrar las 4 estrategias de prueba del software(no caja blanca o negra)
+* 4 principios nielsen
+* 4 estrategias de rejuvenecimiento de software

@@ -1,0 +1,142 @@
+V o F
+
+1. La linea base en el  gcs es una especificación o producto que aun no se ha revisado formalmente y
+	sobre el que se ha llegado a un acuerdo, y que ed ahí en adelante sirve como base para un desarrollo
+	posterior y que puede cambiarse solamente a través de procedimientos formales de control de cambio.
+
+  FALSO (PAG 2) Una línea base solo se establece después de una revisión y aprobación formal.
+
+2. el software de una organización es el activo mas grande, representa el capital intelectual.
+
+  FALSO (PAG 3) El personal es el activo mas importante de una empresa.
+
+3. El líder de un equipo de desarrollo de software debe alentar, celebrar los logros individuales y
+	generar un espíritu comunitario.
+
+  VERDADERO (PAG 3)
+
+4. Realizar un desarrollo ágil de software implica dejar de lado la gestión de riesgos.
+
+  FALSO (NO PAG) realizar un desarrollo ágil no significa abandonar la gestión de riesgos,
+		  sino manejarla de forma más dinámica.
+
+5. Los riesgos de poco impacto, pero con gran probabilidad de ocurrencia deberían tomarse en cuenta
+	para la linea de corte.
+
+  VERDADERO (NO PAG) Todo riesgo es relevante, y además este ocurrirá con frecuencia.
+
+6. En la planificación temporal un "HITO" es una secuencia de acciones a realizar en un plazo determinado.
+
+  VERDADERO (PAG 3)
+
+7. En la planificación temporal, tener un margen total de 5 días significa que la tarea puede iniciarse
+	con 5 días de retraso sin que ello afecte a la duración total del proyecto.
+  
+  VERDADERO (NO PAG)
+
+8. El diseño de experiencia de usuario (UX) es un conjunto de métodos aplicados al proceso de diseño
+	que buscan satisfacer las necesidades del cliente y proporciona una buena experiencia a los usuarios 	destinatarios.
+  
+  VERDADERO (PAG 6)
+
+9. Organizar la arquitectura de la información de una interfaz es uno de los principios del diseño
+	de experiencia de usuario (ux)
+
+  VERDADERO(PAG 7)
+
+10. En el diseño de software la cohesión es una medida de fuerza o relación funcional existente entre las
+	sentencias o grupos de sentencias de un mismo modulo.
+
+  VERDADERA(NO PAG) por que habla de la cohesión dentro del mismo modulo, no con módulos externos.
+
+11. El diseño arquitectónico de software que utiliza un patrón de cliente-servido tiene como ventaja que
+	soporta el desarrollo incremental.
+
+  VERDADERO (PAG 9) porque promueve modularidad, independencia y escalabilidad. 
+
+12. En el diseño  arquitectónico de software el modelo de control basado en eventos es un subsistema
+	que tiene la responsabilidad de iniciar y detener otro subsistema
+
+  FALSO (PAG 8) por que el gestor controla el inicio y fin de los EVENTOS, no de los subsistemas.
+
+13. Las métricas postmortem como LDC permiten conformar una lineal base para futuras métricas.
+
+  VERDADERO (PAG 4)
+
+14. La técnica de estimación DELPHI es desarrollada por cualquier grupo de personas o capacitación
+	especializados en el tipo de desarrollo y se lleva un registro de que cada persona que aporto
+	a la estimación para volver a consultar.
+
+  FALSO(PAG 5) xq la técnica Delphi es una consulta anónima e independiente a expertos
+
+15. La revisión de requerimientos y el diseño contribuyen a mejorar las pruebas dado que permiten
+	descubrir los problemas(defectos) en las etapas tempranas del desarrollo de software.
+
+  VERDADERO(NO PAG)
+
+16. Los casos de prueba obtenidos en la prueba de camino básico garantizan que se ejecuta al menos
+	una vez cada sentencia del programa
+  
+  FALSO (NO PAG) se ejecuten SOLO los caminos básicos o independientes del programa.
+
+17. En la estrategia de prueba de integración considera un modulo critico aquel que tiene alto
+	nivel de control
+
+  VERDADERO (PAG 11) 
+
+18. Las pruebas de validacion comienzan cuando terminan las pruebas de caja negra.
+
+  FALSO (PAG 11/12) no se especifica un orden determinado.
+
+19. La ley de Lehman sobre la estabilidad organizacional dice que el cambió incremental de cada entrega
+	de desarrollo de software es aproximadamente constante.
+  
+  VERDADERA(NO PAG)
+
+20. El mantenimiento adaptativo de software tiene que ver con las tecnologías cambiantes, asi como
+	con las políticas y reglas relacionadas con el software.
+
+  VERDADERO (PAG 12) por las tecnologías, políticas o reglas, es que debe adaptarse a ese entorno.
+
+
+=============================================================================================================
+PREGUNTAS---------------------------------------
+
+
+1) NOMBRAR LAS 4 ESTRATEGIAS DE PRUEBA DE SOFTWARE (SIN CAJA NEGRA O BLANCA):
+
+RTA:	- Toda prueba puede ser seguida hasta los requisitos.
+	- Deben ser previamente planificadas.
+	- Las pruebas comienzan desde lo pequeño hacia lo grande.
+	- Probar todas las condiciones a nivel componente.
+	- Las pruebas las debe hacer el equipo de testers.
+ (PAG 11)
+
+2) NOMBRAR LOS 4 PRINCIPIOS DE NIELSEN:
+
+RTA:	- Visibilidad.
+	- Correspondencia.
+	- control y libertad del usuario.
+	- Consistencia y estándares.
+(CHAT GPT)
+
+3) NOMBRAR 4 ESTRATEGIAS RE REJUVENECIMIENTO DE SOFTWARE.
+
+RTA:	- Re-documentar.
+	- Re-estructurar.
+	- Ingenieria inversa.
+	- Re-ingenieria.
+(PAG 12)
+
+
+
+
+
+
+
+
+
+
+
+
+

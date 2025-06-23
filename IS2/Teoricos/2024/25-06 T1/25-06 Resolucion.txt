@@ -1,0 +1,39 @@
+V o F=======================================================
+
+
+
+
+============================================================
+PREGUNTAS - - - - -- - - - -- - - -- - - - -- - - -- - - ---
+
+1) 4 características de un buen SRS:	
+
+RTA:	- Correcto: Cada requisito esta en el software.
+	- No ambiguio: Cada requisito tiene solo una interpretación.
+	- Consistente: No debe contradecir a otros documentos superiores.
+	- Completo: Se listan todos los requisitos especificados.
+(PAG 1)
+
+2) Explique 4 diferencias entre UX y UI:
+
+RTA:	UX:
+	- Se refiere a la interacción del usuario y software.
+	- Usabilidad.
+	- Accesible.
+	- Debe permitir control al usuario.
+
+	UI:
+	- Se refiere al diseño visual del software.
+	- Paleta de colores.
+	- Tipografía.
+	- Consistencia en todas las partes del software.
+(NO PAG)
+
+3) ¿Cuáles son las características del mantenimiento de software?
+
+RTA:	- Correctivo.
+	- Adaptativo.
+	- Perfectivo.
+	- Preventivo.
+
+(PAG 12)

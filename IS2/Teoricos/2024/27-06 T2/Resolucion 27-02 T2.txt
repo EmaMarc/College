@@ -1,0 +1,138 @@
+V o F =============================
+
+1) las restricciones en el presupuesto o calendario NO son el origen del cambio en el GCS.
+
+FALSO (PAG 5)
+
+2) Un proyecto es un esfuerzo temporal que se lleva a cabo para crear un producto, servicio o resultado único.
+
+VERDADERO (NO PAG)
+
+3) El equipo de software ágil se parece a la organización del paradigma abierto.
+
+VERDADERO (NO PAG)- Ambos fomentan la colaboración, la autonomía y la comunicación directa.
+
+4) En la planeacoin de riesgos la estrategia denominada "plan de contingencia" establece que, siguiendo
+	esta estrategia, la probabilidad de que el riesgo se presente se reduce.
+
+FALSO (PAG 2) - por que se trata de reducir el impacto, no la probabilidad
+
+5) En la planeación temporal de un proyecto un "hito" es algo que se espera que este hecho para alguna fecha,
+	un logro que sea objetivo, facil de evaluar y notable.
+
+VERDADERO (PAG 3)
+
+6) Del grafico e PERT-CPM se puede obtener una ventana temporal para el desarrollo de cada actividad.
+
+VERDADERO (NO PAG)
+
+7) En el diseño de software se busca que los modulos tengan mucho acoplamiento y baja cohesion.
+
+FALSO (PAG 5) en el diseño de software se busca lo contrario
+
+8) El refactoring de software es una técnica de reorganización que simplifica el diseño de un componente
+	sin cambiar su función o comportamiento.
+
+VERDADERO (PAG 6)
+
+9) Los colores y diseño visual son características centrales de la experiencia de usuario (ux).
+
+FALSO (NO PAG) -  los colores y diseño visual pertenecen mas al UI que al UX, aunque UI este dentro de UX.
+
+10) El principio de consistencia de Jacob Nielsen en el desarrollo de interfases indica que no debe
+	haber ambigüedades en la terminología y en lo visual.
+
+VERDADERO
+
+11) El modelo de control centralizado para el diseño de una arquitectura de software se caracteriza por
+	responder a eventos externos al subsistema.
+
+FALSO(PAG 8) en el centralizado hay un subsistema controlador que gestiona la ejecucion de los demas subsistemas
+
+12) Una de las desventajas de la arquitectura de sistemas distribuido es la seguridad.
+
+VERDADERO (PAG 9)
+
+13) En la arquitectura distribuida interorganizacional cada nodo de procesamiento maneja su propia carga
+	de trabajo, pero la carga informática general se comparte dinámicamente entre todos los nodos.
+
+VERDADERO (PAG 9) - Suponiendo que es la descentralizada.
+
+14) En la arquitectura cliente-servidor, los clientes y servidores son procesos diferentes. Además, los
+	servidores pueden atender a varios clientes donde un servidor puede brindar varios servicios
+	y los clientes no se conocen entre si.
+
+VERDADERO(PAG 9)
+
+15) La metrica LCD(líneas de codigo) es una metrica postmortem por que se calcula con datos de otros
+	proyectos de software ya finalizados.
+
+FALSO(NO PAG) - se calcula durante o después del desarrollo
+
+16) Si se realizan pruebas de software se garantiza la ausencia de defectos.
+
+FALSO(NO PAG) - No garantizan la ausencia total de defectos.
+
+17) En las estrategias de prueba la verificación responde a la pregunta de ¿estamos construyendo el producto
+	correcto? de manera de asegurar que el software satisface las expectativas del cliente.
+
+FALSO (PAG 10) - la de validacion responde a esa pregunta.
+
+18) El mantenimiento de software es una actividad que incluye: corregir errores, mejorar las capacidades,
+	eliminar funciones obsoletas y optimizar otras.
+
+VERDADERO (NO PAG)
+
+19) En las leyes de Lehman la "complejidad creciente" hace referencia a que la evolución de los programas
+	es un proceso autorregulativo donde los atributos (tamaño, num de errores documentados, etc)
+	son aproximadamente invariantes en el tiempo.
+
+FALSO (NO PAG) - a medida que un sistema evoluciona, su complejidad tiende a aumentar
+
+20) En el rejuvenecimiento del software la "re-documentación" representa un análisis estatico del codigo
+	para producir la documentación del sistema.
+
+VERDADERO (PAG 12)
+
+=========================================================================================================
+PREGUNTAS --- --- - --- - --- - -- - - - - ---- - -- --- --- -- --- ---- --- -
+
+1) Indique 5 consejos para una buena comunicación del proyecto en formato presentación.
+
+RTA: 	- Hablar claro y despacio.
+	- Usar letras grandes y colores legibles.
+	- No poner demasiado texto en las diapositivas.
+	- Mantener una estructura simple.
+	- Conectar con la audiencia.
+(NO PAG)
+
+2) Describa 4 pautas de criterios técnicos para un buen diseño de software.
+
+RTA:	- Modularidad.
+	- Alta cohesion.
+	- Bajo acoplamiento.
+	- Escalabilidad.
+
+(PAG 6)
+
+3) Indique y describa 3 principios aplicados al auditor informatico.
+
+RTA:	- Seguridad.
+	- Eficiencia.
+	- Efectividad.
+
+(PAG 12)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

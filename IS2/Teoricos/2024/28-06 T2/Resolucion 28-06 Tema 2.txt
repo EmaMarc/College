@@ -1,0 +1,33 @@
+V o F ======================================
+
+
+
+
+
+============================================
+Preguntas - -- ----- -- -- - - -- - - -- ---
+
+1) 4 tipos de mantenimiento:
+	
+RTA:	- Correctivo.
+	- Adaptativo.
+	- Perfectivo.
+	- Preventivo.
+(PAG 12)
+
+
+2) 4 tipos de prueba:
+
+RTA: 	- Prueba de unidad: Se verifica si funciona correctamente,
+	- Prueba de integración: Se combinan los componentes "aprobados"
+	- Prueba de regresión: Se vuelven a ejecutar los aprobados, pero ahora todos juntos.
+	- Prueba del sistema: Verifica la integración del todo.
+(PAG 10)
+
+3) 4 Organizaciones de equipo de trabajo:
+
+RTA:	- Paradigma cerrado.
+	- Paradigma abierto.
+	- Paradigma sincronizado.
+	- Paradigma aleatorio.
+(NO PAG)

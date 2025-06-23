@@ -1,0 +1,153 @@
+V O F ========================================
+
+1) La planificación temporal es una actividad que distribuye el esfuerzo estimado a lo largo de la
+	duración prevista del proyecto.
+
+VERDADERO (PAG 3)
+
+2) Las métricas post-mortem pueden conformar una linea base para futuras estimaciones.
+
+VERDADERO (PAG 4)
+
+3) La GCS es una actividad que se aplica al finalizar todo el proceso del software.
+
+FALSO(PAG 2) Se lleva a cabo durante todo el proyecto.
+
+4) Las 4 P de la gestión de un proyecto de software son Personal, producto, proceso, permanencia.
+
+FALSO (NO PAG) - Persona, producto, proceso, proyecto.
+
+5) El paradigma cerrado de gestión de equipos de desarrollo se caracteriza por que el trabajo
+	se realiza de manera colaborativa y la toma de decisiones consensuandas constituyen
+	las características de los equipos.
+
+FALSO (NO PAG) Es el del sistema abierto, no cerrado. El cerrado tiene decisiones centralizadas por un jefe
+
+6) La planificación es un conjunto de actividades que asegura que el software implemente correctamente
+	una función especifica
+
+FALSO(NO PAG) - Seria "es la planificación DEL conjunto de actividades..."
+
+7) Una estrategia de riesgo reactiva es tener estrategias de tratamiento del riesgo
+
+FALSO(PAG 1) no existe estrategia de riesgo reactiva, sino plan reactivo que es para cuando el problema 
+		ya ocurrió.
+
+8) Los riesgos de desarrollo de software se categorizan en producto, proyecto y negocio.
+
+VERDADERO(PAG 1)
+
+9) La etapa de diseño de software es una etapa de la que no se involucra la calidad por que es una
+	representación grafica.
+
+FALSO(PAG 5) es una representación de lo que será, requisitos, necesidades y consideraciones se unen.
+
+10) El concepto "abstracción" en el diseño de software permite concentrarse en un problema a un nivel de
+	generalización sin tener en cuenta los detalles de bajo nivel.
+
+VERDADERO (PAG 6) se concentra en el problema de forma general.
+
+11) En la representación de la información, además de utilizar un color para indicar el significado es
+	necesario agregarle información textual.
+
+VERDADERO(NO PAG)
+
+12) En el diseño UX el "diseño visual" es la interacción entre un usuario y producto, donde el objetivo
+	es que sea agradable para el usuario.
+
+
+FALSO(NO PAG) el diseño visual no es la INTERACCION sino la estética.
+
+13) Los requerimientos funcionales NO se ven afectador por la arquitectura de software.
+
+FALSO(NO PAG) los req funcionales SI se ven afectador por el tipo de arquitectura.
+
+14) Una de las desventajas del patron de repositorio, en la arquitectura de software, es que los subsistemas
+	deben estar acordes a los modelos de datos del repositorio.
+
+VERDADERO (PAG 7)
+
+15) La "evaluación administrativa del área de informática" es uno de los campos de accion de la auditoria
+	informática.
+	
+VERDADERO(NO PAG)
+
+16) La principal desventaja del enfoque descendente en las prubeas de integración es la necesidad de los
+	resguardos.
+
+VERDADERO(PAG 10)
+
+17) La etapa de prueba no debería ser la primera en que se localicen defectos.
+
+VERDADERO(NO PAG) - Lo ideal es que los defectos se detecten lo antes posible.
+
+18) La prueba de caja blanca se refiere a las prubas que se llevan a cabo sobre la interfaz del software.
+
+FALSO(PAG 12) - La caja negra se centra en la interfaz, y la blanca en el rendimiento.
+
+19) La auditoria es una actividad meramente mecánica.
+
+FALSO(PAG 12) - Requiere juicio profesional y análisis critico.
+
+20) Las tareas de mantenimiento nunca provocan reiniciar las fases de análisis, diseño, e implementación.
+
+FALSO(PAG 12) pueden provocar re análisis, rediseño y re implementación si un cambio es significativo.
+
+=========================================================================================
+Preguntas------------------------------
+
+1) Exprese 4 características de un buen SRS:
+
+RTA:	- Correcto: Todos los requisitos declarados.
+	- No ambiguo: Cada requisito tiene solo una interpretación.
+	- Completo: Estan todos los requisitos impuestos por las especificaciones.
+	- Consistente: No tiene contradicciones con otros documentos.
+	- Comprobable: Cada requisito es comprobable.
+	- Modificable: Permite cambios de requisitos conservando su estructura.
+
+2) Explique 4 diferencias entre UX y UI:
+
+RTA: 	El UX (User Experience) se caracteriza con:
+		- Usabilidad.
+		- Accesibilidad.
+		- Personalización.
+		- Investigación de usuarios.
+
+	El UI (User Interface) se caracteriza con:
+		- Interactividad.
+		- Paleta de colores.
+		- Diseño visual.
+		- Consistencia visual.
+
+3) Cuales son las características del mantenimiento de software:
+
+	- Corrección.
+	- Adaptación.
+	- Perfectivo.
+	- Preventivo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
