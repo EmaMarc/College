@@ -1,19 +1,23 @@
-package ar.edu.unlp.info.oo1.ejercicio2;
+package ar.edu.unlp.info.oo1.ejercicio4;
 
 import java.time.LocalDate;
+import java.util.List;
 
-public class Ticket {
+//igual que el ejercicio 2
+public class Ticket2 {
 
     private LocalDate fecha;
     private int cantidadDeProductos;
     private double pesoTotal;
     private double precioTotal;
+    private List<Producto2> productos;
 
-    public Ticket(LocalDate fecha, int cantidadDeProductos, double pesoTotal, double precioTotal) {
+    public Ticket2(LocalDate fecha, int cantidadDeProductos, double pesoTotal, double precioTotal, List<Producto2> productos) {
         this.fecha = fecha;
         this.cantidadDeProductos = cantidadDeProductos;
         this.pesoTotal = pesoTotal;
         this.precioTotal = precioTotal;
+        this.productos = List.copyOf(productos);
     }
 
     public LocalDate getFecha() {
@@ -37,5 +41,8 @@ public class Ticket {
         return this.precioTotal * 0.21;
     }
 
+    public List<Producto2> getProductos() {
+        return this.productos;
+    }
 
 }
