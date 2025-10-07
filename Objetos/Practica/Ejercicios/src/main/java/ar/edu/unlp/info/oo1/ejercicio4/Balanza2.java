@@ -1,4 +1,4 @@
-package ar.edu.unlp.info.oo1.ejercicio4;
+/*package ar.edu.unlp.info.oo1.ejercicio4;
 
 import ar.edu.unlp.info.oo1.ejercicio2.Producto;
 import ar.edu.unlp.info.oo1.ejercicio2.Ticket;
@@ -55,4 +55,4 @@ public class Balanza2 {
                 ", pesoTotal=" + pesoTotal +
                 '}';
     }
-}
+}*/
