@@ -1,0 +1,124 @@
+V o F ===============
+1. Los elementos de la configuración del software son solo programas y datos.
+FALSO
+(NO PAG) También incluyen documentación, scripts, configuraciones, etc.
+
+2. Una lineal base es un concepto de GCS que nos ayuda a controlar los cambios.
+VERDADERO
+(NO PAG) Su propósito principal es controlar los cambios.
+
+3. El desarrollo ágil no implica dejar de lado la gestión de riesgos, ya que podría llevar
+	a obtener una deuda técnica.
+VERDADERO
+(NO PAG) Aunque sea ágil nunca hay que dejar de lado la gestión de riesgos.
+
+4. El plan de contingencia de un riesgo, implica que siguiendo esa estrategia, la probabilidad
+	de que el riesgo se presente se reduce.
+FALSO
+(NO PAG) El plan de contingencia no reduce la probabilidad, sino el impacto cuando ya ocurrió.
+
+5. Una tarea en la planificación temporal se describe por 3 elementos: precursor, duración y fecha de entrega.
+VERDADERO
+(NO PAG) Precursor, duración y fecha son parametros claves.
+
+6. El diseño de la interfaz de usuario es un proceso secuencial que se hace en etapas.
+VERDADERO
+(NO PAG) Si, las etapas son investigación, diseño, evaluación y refinamiento.
+
+7. La investigación de usuario es una de las fases del desarrollo de la experiencia de usuario (UX)
+VERDADERO
+(NO PAG) Si, las etapas son investigación, diseño, evaluación y refinamiento.
+
+8. La mantenibilidad y el rendimiento impactan en el diseño de la arquitectura se software.
+VERDADERO
+(NO PAG) Ya que son requisitos no funcionales que afectan la arquitectura.
+
+9. Las aplicaciones web con base de datos es un ejemplo de la arquitectura de software en capas.
+VERDADERO
+(NO PAG) Si, son las capas de presentación, lógica y db
+
+10. Las métricas estáticas se relacionan con las características de calidad del software.
+VERDADERO
+(NO PAG) Las estáticas se obtienen sin ejecutar el software(complejidad, LDC, etc.) vinculadas a la calidad.
+
+11. El método GQM esta orientado a lograr una métrica que "mida" cierto objetivo.
+VERDADERO
+(NO PAG) El GQM es crear la métrica para un proyecto especifico.
+
+12. Si se realiza una prueba y el software ha fallado, significa que no hace lo que especifican los requerimientos.
+VERDADERO
+(NO PAG) Si falla es un defecto o fallo funcional.
+
+13. Un defecto por omisión en el software resulta cuando algun aspecto del codigo es incorrecto.
+FALSO
+(NO PAG) Es cuando algo que debería estar no esta. Cuando es incorrecto se llama COMISION.
+
+14. La prueba de caja negra también denominada prueba de comportamiento, se centra en los requisitos funcionales
+	del software ANALIZANDO LAS ENTRADAS Y SALIDAS.
+VERDADERO
+(NO PAG) La caja negra evalúa el software desde las E/S de la interfaz.
+
+15. La complejidad ciclo-matica es una métrica del software que proporciona una medición cuantitativa
+	de la complejidad del uso de variables de pruebas de caja blanca
+FALSO
+(NO PAG) La complejidad ciclomatica mide la cantidad de caminos independientes de ejecución.
+
+16. Las actividades de las estrategias de pruebas son partes de la Verificación y Validacion incluidas en el
+	aseguramiento de la calidad del software.
+VERDADERA
+(NO PAG) Las pruebas forman parte de la validacion y verificación, que a su vez forman parte del control de calidad.
+
+17. Las pruebas de regresión de software solo se pueden hacer en forma manual.
+FALSA
+(NO PAG) Suelen automatizarse para mayor eficiencia.
+
+18. El proceso de mantenimiento se facilita si en el desarrollo estan presentes los atributos calidad,
+	modularidad, documentación interna del codigo fuente y apoyo.
+VERDADERA
+(NO PAG) El proceso de mantenimiento es mas facil y económico.
+
+19. La auditoria informática es una actividad preventiva sobre el uso del software.
+VERDADERA
+(PAG 12) Tiene un rol preventivo y correctivo.
+
+20. El asesor informático evalúa y verifica los sistemas de información y los controles internos de
+	una organización
+
+
+
+=====================
+DESARROLLO
+
+1. Defina 4 criterios técnicos para un buen diseño de software.
+	- Modularidad: El sistema debe dividirse en módulos.
+	- Ocultamiento de información: Cada modulo ocultar y mostrar solo lo necesario.
+	- Independencia: Cada modulo debe realizar solo una función lo mas aislada posible
+	- Abstracción: Permitir representar elementos del sistema a diferentes niveles.
+(PAG 13)
+
+2. Mencione los paradigmas organizacionales del equipo y descríbalos:
+	- Paradigma Jerárquico: Tiene una organización piramidal, donde las ordenes fluyen
+		de arriba hacia abajo
+	- Paradigma Estructurado: Tiene una organización horizontal, con miembros al mismo nivel
+	- Paradigma de Control Centralizado: Un líder coordina toda la información.
+	- Paradigma Descentralizado: Múltiples caminos de comunicación entre los miembros.
+(Pag 13)
+
+3. Mencione 4 principios de Nielsen para interfaces y descríbalos.
+	- Dialogo simple: Se refiere a la comunicación con el usuario.
+	- Lenguaje del usuario: Se refiere a hablar el lenguaje que habla el usuario.
+	- Prevención Errores: Se refiere a diseñar el sistema para que no ocurran.
+	- Consistencia: Se refiere a la uniformidad a lo largo de la interfaz.
+(PAG 14)
+
+4. Indique 2 ventajas y 2 desventajas del patrón de repositorio.
+    VENTAJAS:
+	- Facil comunicación entre sistemas.
+	- Alta capacidad de transmisión de datos. 
+    DESVENTAJAS:
+	- Demasiada dependencia del repositorio.
+	- Escalabilidad limitada.
+
+5. Explique cuando usar la métrica de estimación por juicio de expertos.
+	Es conveniente utilizarla cuando no hay datos previos y se requiere
+		rápidamente una opinión de profesionales expertos.

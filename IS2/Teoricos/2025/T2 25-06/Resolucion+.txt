@@ -1,0 +1,37 @@
+
+
+
+
+
+Desarrollar:
+
+1) Indique 4 características de un buen SRS:
+	- Correcto: Todos los requisitos estan declarados.
+	- No ambiguo: Cada requisito tiene una sola interpretación
+	- Completo: estan todos los requisitos listados en las especificaciones
+	- Consistente: no debe tener contradicciones con otros documentos.
+
+2) Mencione 5 tipos de interfaz:
+	- Interfaz de usuario (UI)
+	- Interfaz de Hardware
+	- Interfaz de Soft a Soft.
+	- Interfaz de Comunicación.
+	- Interfaz de programación.
+
+3) Indique los distintos tipos de prueba dentro de las estrategias de prueba:
+	- Prueba de unidad.
+	- Prueba de integración.
+	- Prueba de sistema.
+	- Prueba de validacion.
+
+4) Indique los 4 tipos de mantenimiento de software:
+	- Re documentar.
+	- Re estructurar.
+	- Re ingenieria.
+	- Ingenieria Inversa.
+
+5) Mencione los objetivos de la auditoria informática:
+	- Prevenir riesgos futuros.
+	- Asegurar el cumplimiento de políticas.
+	- Detectar fallas.
+	- Evaluar si el sistema cumple con los requisitos. 

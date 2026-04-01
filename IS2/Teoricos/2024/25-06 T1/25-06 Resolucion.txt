@@ -9,9 +9,9 @@ PREGUNTAS - - - - -- - - - -- - - -- - - - -- - - -- - - ---
 1) 4 características de un buen SRS:	
 
 RTA:	- Correcto: Cada requisito esta en el software.
-	- No ambiguio: Cada requisito tiene solo una interpretación.
-	- Consistente: No debe contradecir a otros documentos superiores.
+	- No ambiguo: Cada requisito tiene solo una interpretación.
 	- Completo: Se listan todos los requisitos especificados.
+	- Consistente: No debe contradecir a otros documentos superiores.
 (PAG 1)
 
 2) Explique 4 diferencias entre UX y UI:

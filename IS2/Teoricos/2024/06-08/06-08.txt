@@ -1,3 +1,22 @@
 * Nombrar las 4 estrategias de prueba del software(no caja blanca o negra)
 * 4 principios nielsen
 * 4 estrategias de rejuvenecimiento de software
+
+
+1) 4 estrategias de prueba del software, mas la caja negra y blanca.
+	- Prueba de Unidad: Se testean los módulos independientemente.
+	- Prueba de Integración: Se prueban los módulos, ahora en conjunto.
+	- Prueba de Sistema: Se prueba la totalidad del sistema.
+	- Prueba de Validacion: Se evalúa si el sistema satisface las necesidades del usuario final.
+
+2) 4 principios de Nielsen:
+	- Consistencia: Uniformidad a lo largo del proyecto.
+	- Mensajes de Error: Mostrar mensajes de error.
+	- Evitar errores: Diseñar el software para que los errores no ocurran.
+	- Lenguaje del usuario: Utilizar el lenguaje del usuario.
+
+3) 4 estrategias de Rejuvenecimiento:
+	- Re-documentar: actualizar documentación.
+	- Re-estructurar: Refactoring.
+	- Re-ingenieria: El sistema sigue sirviendo pero necesita adaptaciones importantes.
+	- Ingenieria Inversa: analizar que hacer con el sistema.

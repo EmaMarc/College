@@ -1,0 +1,3 @@
+JWT recibido: eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MDUyMTQyOTIsImp0aSI6IjJDRDM4MTRFNjg0QkEwMjM5OTUzNzdEOEY4QUFFOUZFIiwiaXNzIjoiUE9QTyIsImRhdGEiOnsiaWQiOiI5Iiwibm9tYnJlIjoiUE9QTyIsInVzb3MiOiIzMCIsIm1haWwiOiJwb3BvQHBvcG8uY29tIiwiZXhwaXJhY2lvbkxpY2VuY2lhIjoiMjAyMC0xMS0xMiJ9fQ.WSgWjY09M1_p778CI4owwA36A0QX-w-2SItAfCiFZJ198mCO4fV_8r0dF94wkhE8LqtEFFZD374QJOG9lwHDFYLO-s7YozZJf1JwJB6c5YZVEcJQnfNc6QNOL2j77Irs5SuA6rQIV5NSSTb5rCmHLp9v7iyaLvVqCDhLWNNRtPY
+Token recibido decodificado: {"iat":1605214292,"jti":"2CD3814E684BA023995377D8F8AAE9FE","iss":"POPO","data":{"id":"9","nombre":"POPO","usos":"30","mail":"popo@popo.com","expiracionLicencia":"2020-11-12"}}
+Result: {"error":"No existe el cliente de id 9."}

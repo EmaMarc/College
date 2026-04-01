@@ -1,0 +1,132 @@
+Resolución V o F:
+1. Un documento SRS es la especificación de las funciones que realiza un determinado producto de
+	software en un determinado entorno.
+VERDADERO
+(PAG 1)
+
+2. Los elementos de la configuración de software cambian constantemente, por lo que debe hacerse un
+	control exhaustivo de esos cambios.
+VERDADERO
+(NO PAG) SI CAMBIAN CONSTANTEMENTE POR LO QUE HAY QUE CONTROLARLOS.
+
+3. Dentro de las 4 P de la gestión de proyectos de software, el "Proceso" es el recurso mas critico
+	para el éxito del proyecto.
+FALSO
+(PAG 3)	El recurso mas valioso y critico es el PERSONAL
+
+4. El paradigma síncrono es un equipo descentralizado y controlado a la vez, utiliza política de
+	divide y venceras.
+FALSO
+(PAG 13) La definición corresponde al paradigma distribuido o asíncrono.
+
+5. En el análisis de riesgos, los riesgos de gran impacto con una probabilidad baja deberían
+	tomarse en cuenta.
+FALSO
+(NO PAG) Si la probabilidad es muy baja es mejor en centrarse en prevenir o solucionar riesgos con
+	mayor probabilidad.
+
+6. El método del Camino Critico combina lo mejor de los métodos PERT y Gantt
+VERDADERO
+(PAG 3) Combina el método PERT y CPMG(Gantt)
+
+7. Las tareas criticas son aquellas que no tienen margen y deben iniciarse y finalizarse en
+	las fechas mas tempranas.
+VERDADERO
+(PAG 3) Deben realizarse lo antes posible.
+
+8. Jacob Nielsen desarrollo 20 principios que aun son utilizados para el diseño de intefaces.
+FALSO
+(NO PAG) Son 10 no 20.
+
+9. El diseño de interfaz del usuario busca que las personas se adapten a la tecnología, y no 
+	la tecnología a las personas.
+FALSO
+(NO PAG) - al reves, busca que la tecnología se adapte a las personas.
+
+10. En el patron de repositorio los datos son generados por un subsistema y utilizados 
+	por otros sub sistemas.
+VERDADERO  	
+(PAG 7)
+
+11. Un subsistema distribuido es un sistema en el que el procesamiento de información se distribuye
+	sobre varias computadoras.
+VERDADERO 
+(PAG 8)
+
+12. En la arquitectura de componentes distribuidos, estos pueden distribuirse en varias maquinas
+	a través de la red utilizando un intermediario de peticiones.                                                                            
+VERDADERO
+(NO PAG) Se pueden usar intermediarios de peticiones.
+
+13. La metrica LDC es una metrica post-mortem utilizada en las organizaciones de software para
+	ayudar en los procesos de reingenieria.
+VERDADERO
+(PAG 4)
+
+14. La técnica de estimación de Planning Poker se caracteriza por mantener el anonimato de los participantes.
+VERDADERO
+(NO PAG) Se mantiene el anoniimato para evitar sesgos.
+
+15. La prueba de la caja blanca se refiere a las pruebas que se llevan a cabo sobre la interfaz del software.
+FALSO
+(PAG 12) La caja blanca se refiere al análisis del codigo interno.
+
+16. En la prueba del camino básico es suficiente medir la complejidad ciclomatica con una de las 3 formulas.
+VERDADERO
+(NO PAG) Si se hace con una de las 3 formulas.
+
+17. La verificación es el conjunto de actividades que asegura que el software implemente correctamente
+	una función especifica.
+VERDADERO
+(NO PAG) Y la validacion es que cumpla con lo que pidió el cliente.
+
+18. El tipo de mantenimiento preventivo es el que mas se realiza en un software.
+FALSO
+(NO PAG) Es el que menos se realiza, el perfectivo, adaptativo y correctivo tardan mas.
+
+19. La ingenieria inversa parte del codigo fuente y recupera el diseño y la especificación,
+	para aquellos sistemas en los que no hay documentación.
+VERDADERO
+(PAG 12)
+
+20. La auditoria informática es una actividad meramente mecánica.
+FALSO
+(NO PAG) también requiere análisis critico, validacion y evaluación de calidad.
+
+
+===================================================================================================================
+
+
+Desarrollo:
+1. Explique en que consiste hacer el análisis y planeación de riesgos.
+RTA:	- Identificación: Se identifican y categorizan los riesgos.
+	- Evaluación: Se analiza su probabilidad e impacto.
+	- Planificación: Se definen estrategias para prevenir o mitigar los riesgos.
+	- Supervisión: Se controlan los riesgos durante todo el proyecto.
+(PAG 2)
+
+
+2. Cuales son las 3 reglas doradas del diseño de interfaces.
+RTA:	- Dar control al usuario.
+	- Reducir la carga de memoria del usuario.
+	- Interfaz consistente.
+(NO PAG)
+
+3. Como funciona el patrón Cliente-Servidor y cuales son sus componentes.
+RTA: 	El servidor provee servicios, estos servicios son consumidos por los clientes
+	y se envían a través de la red.
+	- Servidor.
+	- Red.
+	- Cliente.
+(PAG 9)
+
+4) En que consiste el método GQM para el desarrollo de métricas.
+RTA:	GQM(Goal - Question - Metric) consiste en diseñar métricas personalizadas
+	a partir de objetivos específicos.
+(NO PAG)
+
+5. Enumere los 4 tipos de prueba de software y explique uno de ellos.
+RTA:	- Prueba de unidad, se prueba cada modulo individualmente.
+	- Prueba de integración, se prueba los modulos previos ahora en conjunto.
+	- Prueba de sistema, se evalúa el sistema completo.
+	- Prueba de validacion, se comprueba si el sistema satisface las necesitades del usuario.

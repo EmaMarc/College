@@ -1,0 +1,35 @@
+Entorno de desarrollo
+
+En la carpeta del proyecto:
+composer require firebase/php-jwt
+
+Craer un par de claves pública/privada:
+openssl genrsa -out mykey.pem 1024
+openssl rsa -in mykey.pem -pubout > mykey.pub
+
+
+generar token
+decodificar token
+verificar token
+
+
+Al instalar SII:
+- Consultor ejecuta programa con parámetros registry <nombre_cliente> <mail_cliente>
+- Progra invoca a la API con nombre y mail
+- API responde con un token que habilita cierta cantidad de usos
+- Programa registra el token en la registry junto con la cantidad de usos disponibles
+
+
+Cada ejecución de SII:
+- La App verifica si la licencia está vigente y si le quedan consumos disponibles
+
+- App invoca a la API con el token registrado en registry y con la cantidad de usos restantes
+  Lo hace de manera asincrónica y sólo para actualizar el token.
+
+- Ejecuta recuperación de datos sin importar si la API respondió o no.
+
+- La API analiza el token recibido.
+  Si es correcto y la licencia está vigente, responde con un nuevo token que actualiza la cantidad de consumos disponibles
+  Si es correcto y la licencia está vencida, responde "licencia vencida"
+  Si es incorrecto, responde "token inválido"
+
