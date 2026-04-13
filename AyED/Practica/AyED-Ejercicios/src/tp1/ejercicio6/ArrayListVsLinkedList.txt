@@ -1,0 +1,38 @@
+6. Análisis de las estructuras de listas provistas por la API de Java.
+a. ¿En qué casos ArrayList ofrece un mejor rendimiento que LinkedList?
+b. ¿Cuándo LinkedList puede ser más eficiente que ArrayList?
+c. ¿Qué diferencia encuentra en el uso de la memoria en ArrayList y LinkedList?
+d. ¿En qué casos sería preferible usar un ArrayList o un LinkedList?
+
+6.a ¿En qué casos ArrayList ofrece un mejor rendimiento que LinkedList?
+
+ArrayList ofrece mejor rendimiento cuando se necesita acceso rápido por índice, porque está implementado con un arreglo dinámico y acceder a una posición es de tiempo constante O(1).
+Por eso conviene cuando la aplicación requiere consultar muchas veces elementos por posición y el tamaño de la estructura no varía demasiado.
+
+Osea cuando necesitamos que este indexado
+
+6.b ¿Cuándo LinkedList puede ser más eficiente que ArrayList?
+
+LinkedList puede ser más eficiente cuando hay muchas inserciones y borrados, sobre todo al principio o al final de la lista. La teoría remarca que LinkedList tiene ventaja en agregar y eliminar en los extremos, mientras que ArrayList se usa más cuando interesa el acceso por índice.
+Además, en la implementación de cola mostrada en clase usan LinkedList justamente porque tiene referencia al principio y al final, lo que la hace conveniente para operaciones tipo enqueue y dequeue.
+
+Osea cuando querramos usar .add por ej
+
+6.c ¿Qué diferencia encuentra en el uso de la memoria en ArrayList y LinkedList?
+
+LinkedList consume más memoria que ArrayList, porque cada nodo no solo guarda el dato sino también referencias al nodo anterior y al siguiente.
+En cambio, ArrayList usa un arreglo dinámico y no necesita esas referencias extra.
+
+6.d ¿En qué casos sería preferible usar un ArrayList o un LinkedList?
+
+Usaría ArrayList cuando:
+
+ - necesito acceder mucho por índice
+ - hago muchas lecturas
+ - el tamaño no cambia tanto
+
+Usaría LinkedList cuando:
+
+ - necesito insertar o borrar seguido
+ - especialmente en el inicio o final
+ - me importa más la manipulación de datos que el acceso aleatorio
